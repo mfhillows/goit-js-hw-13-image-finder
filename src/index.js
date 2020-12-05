@@ -1,4 +1,4 @@
-console.log("ghghgh");
+
 import API from "./apiService";
 import imageCard from "./templates/image-card.hbs";
 
